@@ -1,0 +1,6 @@
+C:\Users\kimds\source\repos\C_sharp\Ch1\obj\Debug\Ch1.csprojAssemblyReference.cache
+C:\Users\kimds\source\repos\C_sharp\Ch1\bin\Debug\Ch1.exe.config
+C:\Users\kimds\source\repos\C_sharp\Ch1\bin\Debug\Ch1.exe
+C:\Users\kimds\source\repos\C_sharp\Ch1\bin\Debug\Ch1.pdb
+C:\Users\kimds\source\repos\C_sharp\Ch1\obj\Debug\Ch1.exe
+C:\Users\kimds\source\repos\C_sharp\Ch1\obj\Debug\Ch1.pdb

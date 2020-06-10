@@ -1,0 +1,43 @@
+﻿using System;
+using System.Threading;
+
+namespace Exercise
+{
+    class Thread_5
+    {
+        static Thread th_a1 = new Thread(FuncA);
+        static Thread th_b1 = new Thread(FuncB);
+
+        static void FuncA()
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                Thread.Sleep(2000);  // 1000 이 1초 
+                Console.WriteLine("A : Count = " + i);
+
+                th_a1.Suspend(); // 한번 실행하고 나서 얼음이 됨
+                                 // 얼음이 된 녀석은 누군가가 와서 깨워 주어야 다시 동작함
+                                 // 그러므로 1 출력하고 나서 얼음이므로 정지됨.
+            }
+        }
+
+        static void FuncB()
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                Thread.Sleep(1000);
+                Console.WriteLine("B : Count = " + i);
+            }
+
+            th_a1.Resume();  // B  다 출력하고 나서 A 깨워줌
+        }
+
+        static void Main(string[] args)
+        {
+            th_a1 = new Thread(FuncA);
+            th_b1 = new Thread(FuncB);
+            th_a1.Start();
+            th_b1.Start();
+        }
+    }
+}

@@ -1,0 +1,6 @@
+C:\Users\kimds\source\repos\C_sharp\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\kimds\source\repos\C_sharp\Exercise\bin\Debug\Exercise.exe
+C:\Users\kimds\source\repos\C_sharp\Exercise\bin\Debug\Exercise.pdb
+C:\Users\kimds\source\repos\C_sharp\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
+C:\Users\kimds\source\repos\C_sharp\Exercise\obj\Debug\Exercise.exe
+C:\Users\kimds\source\repos\C_sharp\Exercise\obj\Debug\Exercise.pdb

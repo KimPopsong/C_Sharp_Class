@@ -1,0 +1,6 @@
+C:\Users\kimds\source\repos\C_sharp\Ch7\bin\Debug\Ch7.exe.config
+C:\Users\kimds\source\repos\C_sharp\Ch7\bin\Debug\Ch7.exe
+C:\Users\kimds\source\repos\C_sharp\Ch7\bin\Debug\Ch7.pdb
+C:\Users\kimds\source\repos\C_sharp\Ch7\obj\Debug\Ch7.exe
+C:\Users\kimds\source\repos\C_sharp\Ch7\obj\Debug\Ch7.pdb
+C:\Users\kimds\source\repos\C_sharp\Ch7\obj\Debug\Ch7.csprojAssemblyReference.cache
