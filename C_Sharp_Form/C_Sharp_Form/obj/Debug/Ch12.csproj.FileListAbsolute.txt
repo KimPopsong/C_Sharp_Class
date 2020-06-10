@@ -1,0 +1,8 @@
+C:\Users\kimds\source\repos\C_Sharp_Form\C_Sharp_Form\bin\Debug\C_Sharp_Form.exe.config
+C:\Users\kimds\source\repos\C_Sharp_Form\C_Sharp_Form\bin\Debug\C_Sharp_Form.exe
+C:\Users\kimds\source\repos\C_Sharp_Form\C_Sharp_Form\bin\Debug\C_Sharp_Form.pdb
+C:\Users\kimds\source\repos\C_Sharp_Form\C_Sharp_Form\obj\Debug\Ch12.csprojAssemblyReference.cache
+C:\Users\kimds\source\repos\C_Sharp_Form\C_Sharp_Form\obj\Debug\C_Sharp_Form.Properties.Resources.resources
+C:\Users\kimds\source\repos\C_Sharp_Form\C_Sharp_Form\obj\Debug\Ch12.csproj.GenerateResource.cache
+C:\Users\kimds\source\repos\C_Sharp_Form\C_Sharp_Form\obj\Debug\C_Sharp_Form.exe
+C:\Users\kimds\source\repos\C_Sharp_Form\C_Sharp_Form\obj\Debug\C_Sharp_Form.pdb
